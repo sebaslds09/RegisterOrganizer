@@ -1,0 +1,11 @@
+Regsvr32 /s GradientCommand.ocx
+Regsvr32 /s ubGrid.ocx
+Regsvr32 /s Frame-Xp.ocx
+Regsvr32 /s HookMenu.ocx
+Regsvr32 /s RICHTX32.OCX
+Regsvr32 /s mscomctl.ocx
+Regsvr32 /s MSCHRT20.OCX
+Regsvr32 /s NotifyIcon.ocx
+Regsvr32 /s TABCTL32.OCX
+Regsvr32 /s MSCOMCT2.OCX
+Regsvr32 /s progressbar-xp.ocx

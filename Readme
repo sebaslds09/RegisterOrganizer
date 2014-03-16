@@ -1,0 +1,21 @@
+	Copyright 2010 Sebastian Ortiz
+	This program is free software: you can redistribute it and/or modify
+	it under the terms of the GNU General Public License as published by
+	the Free Software Foundation, either version 3 of the License, or
+	(at your option) any later version.
+
+	This program is distributed in the hope that it will be useful,
+	but WITHOUT ANY WARRANTY; without even the implied warranty of
+	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+	GNU General Public License for more details.
+
+	You should have received a copy of the GNU General Public License
+	along with this program.  If not, see <http://www.gnu.org/licenses/>.
+	Author: Sebastian Ortiz Acevedo 
+	Date: 4-Sep-2010 
+	pi2.c: This program calculate pi using a mathematical serie 
+	Euler serie, this uses 2 threads to duplicate the velocity 
+	of the calculus. 
+
+
+This is a manage software to a border bussines wich generate reports about the efficency of workers
